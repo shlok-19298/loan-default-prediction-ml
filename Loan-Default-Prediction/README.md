@@ -52,3 +52,8 @@ Open notebook:
 ```bash
 jupyter notebook
 ```
+
+## Kaggle Notebook
+
+Notebook Link:
+[PASTE_LINK_HERE](https://www.kaggle.com/code/shlok192980707/loan-default-prediction-ml-project)
